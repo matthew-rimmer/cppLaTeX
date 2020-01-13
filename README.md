@@ -1,4 +1,4 @@
-#cppLaTeX
+# cppLaTeX
 
 CppLaTeX is a C++ library which provides an interface for generating LaTeX documents
 
